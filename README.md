@@ -8,6 +8,11 @@ The player controls a spaceship, destroys enemies, fights multiple bosses, and p
 ---
 
 
+🎮 ✅ PLAY SYSTEM FEATURES
+⏸️ LEFT/RIGHT Button for player movement
+▶️ Keyboard SPACE button for shooting
+
+
 ## ✨ Features
 
 * 🕹️ Smooth player movement and shooting system
