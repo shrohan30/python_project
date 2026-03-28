@@ -109,8 +109,4 @@ Game uses a JSON file to store:
 
 ---
 
-## 📌 Note
 
-This project was developed as part of a Software Engineering course.
-
----
